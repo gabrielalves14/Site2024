@@ -1,0 +1,12 @@
+@charset "UTF-8"
+body
+ {
+    background-color: black;
+    color: azure;
+    font-size: medium 12 pt;
+    font-family: Arial ;
+ }
+ h1
+ {
+    color: brown;
+ }
